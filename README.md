@@ -12,6 +12,7 @@ https://tsiyukino.github.io/vpm-repos/index.json
 | --- | --- | --- |
 | `moe.tsiyuki.wardrobe` | Outfit and hair switcher: exclusive outfits with piece toggles, colours and looks, absorbing the menus that ship inside outfits | [YukiWardrobe](https://github.com/tsiyukino/YukiWardrobe) |
 | `moe.tsiyuki.material` | Non-destructive material editing: edit a material through its own shader inspector, or merge images into its textures, without duplicating anything into your project | [YukiMaterial](https://github.com/tsiyukino/YukiMaterial) |
+| `moe.tsiyuki.menu` | Shows the menu your avatar actually ends up with, and lets you set its order and how many items sit on a wheel | [YukiMenu](https://github.com/tsiyukino/YukiMenu) |
 | `moe.tsiyuki.nontoon` | lilToon to NonToon conversion at build time | [YukiNonToon](https://github.com/tsiyukino/YukiNonToon) |
 | `moe.tsiyuki.core` | Shared editor utilities the others build on | [YukiCore](https://github.com/tsiyukino/YukiCore) |
 

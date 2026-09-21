@@ -6,7 +6,7 @@
     "name": "TsiYuki",
     "url": "https://github.com/tsiyukino"
   },
-  "description": "VRChat avatar tools by TsiYuki: Yuki Wardrobe, Yuki Material, Yuki NonToon Converter and shared utilities.",
+  "description": "VRChat avatar tools by TsiYuki: Yuki Wardrobe, Yuki Material, Yuki Menu, Yuki NonToon Converter and shared utilities.",
   "infoLink": {
     "url": "https://github.com/tsiyukino/vpm-repos",
     "text": "View on GitHub"
@@ -15,6 +15,7 @@
     "tsiyukino/YukiCore",
     "tsiyukino/YukiWardrobe",
     "tsiyukino/YukiNonToon",
-    "tsiyukino/YukiMaterial"
+    "tsiyukino/YukiMaterial",
+    "tsiyukino/YukiMenu"
   ]
 }
