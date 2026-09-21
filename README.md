@@ -8,11 +8,12 @@ VPM package listing for TsiYuki's VRChat tools.
 https://tsiyukino.github.io/vpm-repos/index.json
 ```
 
-| Package | Repository |
-| --- | --- |
-| `moe.tsiyuki.core` | [YukiCore](https://github.com/tsiyukino/YukiCore) |
-| `moe.tsiyuki.wardrobe` | [YukiWardrobe](https://github.com/tsiyukino/YukiWardrobe) |
-| `moe.tsiyuki.nontoon` | [YukiNonToon](https://github.com/tsiyukino/YukiNonToon) |
+| Package | What it does | Repository |
+| --- | --- | --- |
+| `moe.tsiyuki.wardrobe` | Outfit and hair switcher: exclusive outfits with piece toggles, colours and looks, absorbing the menus that ship inside outfits | [YukiWardrobe](https://github.com/tsiyukino/YukiWardrobe) |
+| `moe.tsiyuki.material` | Non-destructive material editing: edit a material through its own shader inspector, or merge images into its textures, without duplicating anything into your project | [YukiMaterial](https://github.com/tsiyukino/YukiMaterial) |
+| `moe.tsiyuki.nontoon` | lilToon to NonToon conversion at build time | [YukiNonToon](https://github.com/tsiyukino/YukiNonToon) |
+| `moe.tsiyuki.core` | Shared editor utilities the others build on | [YukiCore](https://github.com/tsiyukino/YukiCore) |
 
 ## How it works
 
