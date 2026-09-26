@@ -15,7 +15,10 @@ https://tsiyukino.github.io/vpm-repos/index.json
 | `moe.tsiyuki.menu` | Shows the menu your avatar actually ends up with, and lets you set its order and how many items sit on a wheel | [YukiMenu](https://github.com/tsiyukino/YukiMenu) |
 | `moe.tsiyuki.follow` | Keeps objects (SPS sockets, charms) on a mesh surface while its blendshapes change, makes outfits follow the body's blendshapes, and blends a separate body part's seam into the body's shading | [YukiFollow](https://github.com/tsiyukino/YukiFollow) |
 | `moe.tsiyuki.nontoon` | lilToon to NonToon conversion at build time | [YukiNonToon](https://github.com/tsiyukino/YukiNonToon) |
-| `moe.tsiyuki.core` | Shared editor utilities the others build on | [YukiCore](https://github.com/tsiyukino/YukiCore) |
+| `moe.tsiyuki.core` | Shared editor code every tool builds on | [YukiCore](https://github.com/tsiyukino/YukiCore) |
+| `moe.tsiyuki.core.animation` | Animator building blocks for tools that generate FX layers | [YukiCoreAnimation](https://github.com/tsiyukino/YukiCoreAnimation) |
+| `moe.tsiyuki.core.texture` | Texture compositing for tools that bake textures and materials | [YukiCoreTexture](https://github.com/tsiyukino/YukiCoreTexture) |
+| `moe.tsiyuki.core.menus` | Modular Avatar menu building and placement for tools that generate menus | [YukiCoreMenus](https://github.com/tsiyukino/YukiCoreMenus) |
 
 ## How it works
 

@@ -17,6 +17,9 @@
     "tsiyukino/YukiNonToon",
     "tsiyukino/YukiMaterial",
     "tsiyukino/YukiMenu",
-    "tsiyukino/YukiFollow"
+    "tsiyukino/YukiFollow",
+    "tsiyukino/YukiCoreAnimation",
+    "tsiyukino/YukiCoreTexture",
+    "tsiyukino/YukiCoreMenus"
   ]
 }
